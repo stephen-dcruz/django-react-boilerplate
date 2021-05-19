@@ -1,0 +1,8 @@
+div.ui.inverted.menu{
+    background: green;
+    color: black;
+}
+
+div.ui.inverted.menu .header.item{
+    color: black;
+}
